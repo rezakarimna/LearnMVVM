@@ -13,10 +13,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // test github
-        baa();
+        b();
     }
 
-    private void  baa(){
+    private void  b(){
         Toast.makeText(this, "github", Toast.LENGTH_SHORT).show();
     }
 }
