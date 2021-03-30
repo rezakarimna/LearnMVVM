@@ -20,8 +20,4 @@ public class SimpleDataBindingActivity extends AppCompatActivity {
         users.setName("REZA KARIMNIA");
         binding.setUsers(users);
     }
-
-    private void  b(){
-        Toast.makeText(this, "github", Toast.LENGTH_SHORT).show();
-    }
 }
